@@ -53,6 +53,19 @@ A continuación puede verse una vista previa del resultado de este flow.
 
 ![](https://github.com/hugoescalpelo/flow2-nodered-docker-compose/blob/main/Imagenes/Screenshot%20from%202023-05-24%2019-58-48.png)
 
+## Notas
+
+El código del nodo function es el siguiente
+
+```
+// Lo que está después de "//" son comentarios
+// Crea un objeto Date a partir del msg.payload enviado por timestamp
+var date = new Date(msg.payload);
+// Cambia el payload para que sea una fecha con formato
+msg.payload = date.toString();
+// Regresa el mensaje para que se envíe al siguiente nodo
+return msg;
+```
 ## Evidencias
 
 
