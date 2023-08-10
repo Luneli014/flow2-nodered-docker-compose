@@ -51,7 +51,7 @@ Para observar el resutlado de este flow, sólo es necesario abrir la pestaña De
 
 A continuación puede verse una vista previa del resultado de este flow.
 
-![](https://github.com/hugoescalpelo/flow2-nodered-docker-compose/blob/main/Imagenes/Screenshot%20from%202023-05-24%2019-58-48.png)
+![](https://github.com/Luneli014/flow2-nodered-docker-compose/blob/main/Imagenes/Screenshot%20from%202023-08-09%2018-11-05.png?raw=true)
 
 ## Notas
 
@@ -72,7 +72,7 @@ return msg;
 
 # Créditos
 
-Desarrollado por Hugo Escalpelo
-- [hugoescalpelo.com](https://hugoescalpelo.com/)
-- [Página en Facebook](https://www.facebook.com/Hugo-Escalpelo-Profesional-337708683840136)
-- [GitHub](https://github.com/hugoescalpelo)
+Desarrollado por Karen Luna
+
+- [Página en Instagram](https://www.instagram.com/karen.luna14/)
+- [GitHub](https://github.com/Luneli014)
